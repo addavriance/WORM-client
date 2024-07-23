@@ -1,0 +1,7 @@
+#Tue Jun 14 03:03:09 EEST 2022
+shadowDistance=128.0
+SHADOW_FILTER=false
+shadowMapResolution=1024
+AO=false
+LIGHT_SHAFT=false
+SHADOW_COLOR=false
