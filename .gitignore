@@ -15,13 +15,12 @@
 !options.txt
 !patchouli_data.json
 !TLauncherAdditional.json
-!WORM.jar
-!WORM.json
+!WORMCRAFT.jar
+!WORMCRAFT.json
 
 !config/**
 !defaultconfigs/**
 !fancymenu_data/**
 !mods/**
-!natives/**
 !resourcepacks/**
 !shaderpacks/**
