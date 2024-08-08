@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:1
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","spelunkery:better_vanilla_gems","spelunkery:unlit_redstone_ores","spelunkery:emissive_better_vanilla_ores"]
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ru_ru
@@ -75,7 +75,7 @@ glDebugVerbosity:1
 skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -126,12 +126,6 @@ key_key.projecte.charge:key.keyboard.v
 key_key.projecte.extra_function:key.keyboard.c
 key_key.projecte.fire_projectile:key.keyboard.r
 key_key.projecte.mode:key.keyboard.g
-key_keybind.ironjetpacks.engine:key.keyboard.v
-key_keybind.ironjetpacks.hover:key.keyboard.h
-key_keybind.ironjetpacks.ascend:key.keyboard.unknown
-key_keybind.ironjetpacks.descend:key.keyboard.unknown
-key_keybind.ironjetpacks.increment_throttle:key.keyboard.period
-key_keybind.ironjetpacks.decrement_throttle:key.keyboard.comma
 key_key.modernfix.config:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.industrialforegoing.backpack.desc:key.keyboard.unknown
@@ -142,6 +136,7 @@ key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.illagerrevolutionmod.attack_key1:key.keyboard.c
 key_key.illagerrevolutionmod.attack_key2:key.keyboard.g
 key_key.illagerrevolutionmod.attack_key3:key.keyboard.v
+key_key.wi_zoom.zoom:key.keyboard.c
 key_pneumaticcraft.armor.options:key.keyboard.u
 key_pneumaticcraft.helmet.hack:key.keyboard.h
 key_pneumaticcraft.helmet.debugging.drone:key.keyboard.y
@@ -160,7 +155,7 @@ key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
 key_key.disable_voice_chat:key.keyboard.n
-key_key.hide_icons:key.keyboard.h
+key_key.hide_icons:key.keyboard.unknown
 key_key.voice_chat:key.keyboard.v
 key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
@@ -176,8 +171,6 @@ key_Camera down:key.keyboard.page.down
 key_Swap shoulder:key.keyboard.o
 key_Toggle perspective:key.keyboard.unknown
 key_Free look:key.keyboard.left.alt
-key_key.valkyrienskies.ship_down:key.keyboard.v
-key_key.valkyrienskies.ship_cruise:key.keyboard.c
 key_key.ad_astra.toggle_suit_flight:key.keyboard.v
 key_key.ad_astra.open_radio:key.keyboard.r
 key_key.immersive_aircraft.fallback_control_left:key.keyboard.unknown
@@ -191,18 +184,21 @@ key_key.immersive_aircraft.fallback_control_push:key.keyboard.unknown
 key_key.immersive_aircraft.fallback_use:key.keyboard.unknown
 key_key.immersive_aircraft.dismount:key.keyboard.r
 key_key.immersive_aircraft.boost:key.keyboard.b
-key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
+key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.grave.accent
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.carry.desc:key.keyboard.left.shift
+key_crashutils.openscreen:key.keyboard.u:CONTROL
+key_crashutils.copycontainer:key.keyboard.unknown
+key_crashutils.slottooltips:key.keyboard.unknown
 key_key.prone:key.keyboard.unknown
 key_key.prone.toggle:key.keyboard.left.alt
 key_key.protection_pixel.armortabletrigger:key.keyboard.right.shift
@@ -213,16 +209,28 @@ key_key.cataclysm.armor_ability:key.keyboard.y
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown
 key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown
 key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
+key_spanorama.key.createPanorama:key.keyboard.i
 key_keybind.sophisticatedstorage.sort:key.mouse.middle
-key_brute_force_rendering_culling.key.config:key.keyboard.r
-key_brute_force_rendering_culling.key.debug:key.keyboard.x
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
+key_key.journeymap.zoom_in:key.keyboard.equal
+key_key.journeymap.zoom_out:key.keyboard.minus
+key_key.journeymap.minimap_type:key.keyboard.left.bracket
+key_key.journeymap.minimap_preset:key.keyboard.backslash
+key_key.journeymap.create_waypoint:key.keyboard.b
+key_key.journeymap.toggle_waypoints:key.keyboard.z
+key_key.journeymap.fullscreen_create_waypoint:key.keyboard.b
+key_key.journeymap.fullscreen_chat_position:key.keyboard.c
+key_key.journeymap.map_toggle_alt:key.keyboard.j
+key_key.journeymap.fullscreen_waypoints:key.keyboard.n
+key_key.journeymap.minimap_toggle_alt:key.keyboard.j:CONTROL
+key_key.journeymap.fullscreen_options:key.keyboard.o
+key_key.journeymap.fullscreen.north:key.keyboard.up
+key_key.journeymap.fullscreen.south:key.keyboard.down
+key_key.journeymap.fullscreen.east:key.keyboard.right
+key_key.journeymap.fullscreen.west:key.keyboard.left
+key_key.journeymap.fullscreen.disable_buttons:key.keyboard.h
 key_key.configured.open_mod_list:key.keyboard.unknown
-key_key.okzoomer.zoom:key.keyboard.c
-key_key.okzoomer.decrease_zoom:key.keyboard.unknown
-key_key.okzoomer.increase_zoom:key.keyboard.unknown
-key_key.okzoomer.reset_zoom:key.keyboard.unknown
 key_key.special_ability:key.keyboard.g
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
@@ -234,7 +242,7 @@ key_key.jade.show_details:key.keyboard.left.shift
 key_key.create_sa.flying:key.keyboard.space
 key_key.create_sa.increase_reach:key.keyboard.up
 key_key.create_sa.decrease_reach:key.keyboard.down
-key_key.fps_optimiser_.o:key.keyboard.o
+key_key.fps_optimiser_.o:key.keyboard.unknown
 key_key.irons_spellbooks.spell_wheel:key.keyboard.r
 key_key.irons_spellbooks.spellbook_cast:key.keyboard.v
 key_key.irons_spellbooks.spell_bar_modifier:key.keyboard.left.alt
@@ -287,17 +295,17 @@ key_pneumaticcraft.armor.upgrade.block_tracker.module.hackables:key.keyboard.unk
 key_pneumaticcraft.armor.upgrade.scuba:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.jet_boots.module.builder_mode:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.block_tracker.module.end_portal:key.keyboard.unknown
-soundCategory_master:0.6357615894039735
-soundCategory_music:0.20422535211267606
-soundCategory_record:1.0
-soundCategory_weather:1.0
-soundCategory_block:1.0
+soundCategory_master:0.3665759799534634
+soundCategory_music:0.704225352112676
+soundCategory_record:0.6408450704225352
+soundCategory_weather:0.5774647887323944
+soundCategory_block:0.6514084507042254
 soundCategory_hostile:1.0
-soundCategory_neutral:1.0
+soundCategory_neutral:0.7640845070422535
 soundCategory_player:1.0
-soundCategory_ambient:1.0
+soundCategory_ambient:0.0
 soundCategory_voice:1.0
-soundCategory_extrasounds$master:0.5
+soundCategory_extrasounds$master:0.5036101083032491
 soundCategory_extrasounds$inventory:1.0
 soundCategory_extrasounds$action:1.0
 soundCategory_extrasounds$chat:1.0
@@ -308,8 +316,8 @@ soundCategory_extrasounds$typing:1.0
 soundCategory_extrasounds$item_drop:1.0
 soundCategory_extrasounds$empty_hotbar:1.0
 soundCategory_extrasounds$enabled_footstep:1.0
-soundCategory_extrasounds$enabled_effects:1.0
-soundCategory_extrasounds$enabled_poof:1.0
+soundCategory_extrasounds$enabled_effects:0.0
+soundCategory_extrasounds$enabled_poof:0.0
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true
