@@ -8878,65 +8878,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 366866,
-          "name": "Panorama Creator",
-          "author": "suppergerrie2",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/panorama-creator",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 3,
-              "name": "cosmetic",
-              "shortName": "cosmetic",
-              "nesting": 0
-            }
-          ],
-          "picture": 847858,
-          "pictures": [],
-          "lanName": "panorama-creator",
-          "version": {
-            "id": 5424724,
-            "name": "spanorama-1.5.2",
-            "updateDate": 1718302833000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 46,
-                "name": "1.20.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "6b87717a2edad31d1db7bd24b743508fbdd9ad80",
-              "size": 16944,
-              "path": "mods/spanorama-1.5.2.jar",
-              "url": "/mods/366866/5424724/spanorama-1.5.2.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "downloadMonth": 1,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 49,
-            "name": "1.20.4"
-          },
-          "updated": 1718226000000,
-          "update": 1718226000000,
-          "downloadALL": 1920,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 931925,
           "name": "Embeddium++",
           "author": "SrRapero720 SrRapero720",
@@ -10041,14 +9982,14 @@
         },
         {
           "stateGameElement": "active",
-          "id": -10833872087700,
-          "name": "efallingtrees-0.5.0",
+          "id": -5632880053000,
+          "name": "efallingtrees-0.5.0-1.20+forge",
           "favorite": false,
           "version": {
             "name": "1.0",
             "metadata": {
               "size": 0,
-              "path": "MODs/efallingtrees-0.5.0.jar"
+              "path": "MODs/efallingtrees-0.5.0-1.20+forge.jar"
             },
             "available": false
           },
