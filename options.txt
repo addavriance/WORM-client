@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:1
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","file/logopack.zip"]
+incompatibleResourcePacks:["file/logopack.zip"]
 lastServer:
 lang:ru_ru
 soundDevice:""
@@ -130,7 +130,7 @@ key_key.modernfix.config:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.industrialforegoing.backpack.desc:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.g
-key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.reload:key.keyboard.right.bracket
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.illagerrevolutionmod.attack_key1:key.keyboard.c
@@ -151,7 +151,7 @@ key_key.electrodynamics.toggleservoleggings:key.keyboard.k
 key_key.electrodynamics.swapbattery:key.keyboard.r
 key_key.emotecraft.fastchoose:key.keyboard.b
 key_key.emotecraft.stop:key.keyboard.unknown
-key_key.push_to_talk:key.keyboard.unknown
+key_key.push_to_talk:key.keyboard.right.alt
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
 key_key.disable_voice_chat:key.keyboard.n
@@ -209,7 +209,6 @@ key_key.cataclysm.armor_ability:key.keyboard.y
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown
 key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown
 key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
-key_spanorama.key.createPanorama:key.keyboard.i
 key_keybind.sophisticatedstorage.sort:key.mouse.middle
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
@@ -263,8 +262,8 @@ key_key.irons_spellbooks.spell_quick_cast_14:key.keyboard.unknown
 key_key.irons_spellbooks.spell_quick_cast_15:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.pickup.item:key.keyboard.unknown
-key_key.entityculling.toggle:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.f6
+key_key.entityculling.toggle:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.fall_protection:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.jet_boots.module.hover:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.air_conditioning:key.keyboard.unknown
@@ -296,7 +295,7 @@ key_pneumaticcraft.armor.upgrade.scuba:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.jet_boots.module.builder_mode:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.block_tracker.module.end_portal:key.keyboard.unknown
 soundCategory_master:0.3665759799534634
-soundCategory_music:0.704225352112676
+soundCategory_music:0.7570422535211268
 soundCategory_record:0.6408450704225352
 soundCategory_weather:0.5774647887323944
 soundCategory_block:0.6514084507042254

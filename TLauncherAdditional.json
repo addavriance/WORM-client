@@ -321,25 +321,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": -3988516627500,
-          "name": "SolarFluxReborn-1.20.1-20.1.6",
-          "favorite": false,
-          "version": {
-            "name": "1.0",
-            "metadata": {
-              "size": 0,
-              "path": "MODs/SolarFluxReborn-1.20.1-20.1.6.jar"
-            },
-            "available": false
-          },
-          "userInstall": true,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": -3988518158600,
           "name": "Structory_1.20.x_v1.3.5",
           "favorite": false,
@@ -1089,25 +1070,6 @@
             "metadata": {
               "size": 0,
               "path": "MODs/geckolib-forge-1.20.1-4.4.7.jar"
-            },
-            "available": false
-          },
-          "userInstall": true,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
-          "id": -3988643658600,
-          "name": "gtceu-forge-1.20.1-1.0.11.a",
-          "favorite": false,
-          "version": {
-            "name": "1.0",
-            "metadata": {
-              "size": 0,
-              "path": "MODs/gtceu-forge-1.20.1-1.0.11.a.jar"
             },
             "available": false
           },
