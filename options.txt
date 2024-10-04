@@ -44,7 +44,7 @@ biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","file/logopack.zip"]
 incompatibleResourcePacks:["file/logopack.zip"]
-lastServer:
+lastServer:alphard.minerent.net:25583
 lang:ru_ru
 soundDevice:""
 chatVisibility:0
