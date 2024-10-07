@@ -14341,6 +14341,81 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 851046,
+          "name": "Neruina - Ticking Entity Fixer",
+          "author": "bawnorton",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/neruina",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            }
+          ],
+          "picture": 821282,
+          "pictures": [],
+          "lanName": "neruina",
+          "version": {
+            "id": 5666519,
+            "name": "Neruina-2.1.2-forge+1.20.1",
+            "updateDate": 1724707375000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              }
+            ],
+            "metadata": {
+              "sha1": "a02a8ccd580ba3c37ba26ff19cf35b221ae2a073",
+              "size": 3086403,
+              "path": "mods/Neruina-2.1.2-forge+1.20.1.jar",
+              "url": "/mods/851046/5666519/Neruina-2.1.2-forge+1.20.1.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 52,
+            "name": "1.21"
+          },
+          "updated": 1724619600000,
+          "update": 1724619600000,
+          "downloadALL": 5177,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
         }
       ],
       "resourcePacks": [
